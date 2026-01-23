@@ -79,15 +79,24 @@ This environment was built from scratch to strengthen my understanding of Window
 ---
 
 
-### Directory Breakdown
+## Repository Structure
 
-| Directory | Purpose |
-|--------|---------|
-| `architecture/` | Network and Active Directory design |
-| `setup-guides/` | Reproducible build documentation |
-| `osticket/` | Help desk setup and workflows |
-| `screenshots/` | Environment validation |
-| `troubleshooting/` | Real-world issues and fixes |
+| Directory | Description |
+|---------|-------------|
+| [`architecture/`](architecture) | High-level environment and network design |
+| └── [`environment-overview.md`](architecture/environment-overview.md) | Overview of domain, servers, and system interactions |
+| [`setup-guides/`](setup-guides) | Step-by-step environment setup documentation |
+| └── [`domain-controller-setup.md`](setup-guides/domain-controller-setup.md) | Windows Server Active Directory setup |
+| └── [`domain-join-clients.md`](setup-guides/domain-join-clients.md) | Joining Windows clients to the domain |
+| └── [`ubuntu-osticket-install.md`](setup-guides/ubuntu-osticket-install.md) | osTicket installation on Ubuntu |
+| [`osticket/`](osticket) | Help desk configuration and workflows |
+| └── [`agents-and-roles.md`](osticket/agents-and-roles.md) | Agent roles and access control |
+| └── [`departments-and-emails.md`](osticket/departments-and-emails.md) | Department structure and ticket routing |
+| └── [`ssl-https-configuration.md`](osticket/ssl-https-configuration.md) | HTTPS and SSL configuration |
+| [`troubleshooting/`](troubleshooting) | Issues encountered and resolutions |
+| └── [`issues-and-fixes.md`](troubleshooting/issues-and-fixes.md) | Troubleshooting documentation |
+| [`screenshots/`](screenshots) | Visual validation of lab setup |
+
 
 
 ---
