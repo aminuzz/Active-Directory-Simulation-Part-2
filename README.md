@@ -10,7 +10,7 @@ This environment was built from scratch to strengthen my understanding of Window
 ## Environment Overview
 - One Windows Server Domain Controller
 - Multiple domain-joined Windows client machines
-- Ubuntu Server hosting osTicket
+- Ubuntu machine hosting osTicket
 - Internal DNS and domain-based authentication
 - HTTPS enabled using a local/self-signed certificate
 - Department-based ticketing workflow (HR-focused)
@@ -78,6 +78,16 @@ This environment was built from scratch to strengthen my understanding of Window
 
 ---
 
+
+### Directory Breakdown
+
+| Directory | Purpose |
+|--------|---------|
+| `architecture/` | Network and Active Directory design |
+| `setup-guides/` | Reproducible build documentation |
+| `osticket/` | Help desk setup and workflows |
+| `screenshots/` | Environment validation |
+| `troubleshooting/` | Real-world issues and fixes |
 
 
 ---
