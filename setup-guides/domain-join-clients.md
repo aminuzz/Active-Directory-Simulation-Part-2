@@ -72,6 +72,13 @@ Once joined:
 - Centralized identity management is enforced
 - Workstations behave as managed domain assets
 
+Login window for user Stacy Watson:
+<img width="1025" height="772" alt="domain-login" src="https://github.com/user-attachments/assets/a92749f5-850e-4153-b82c-6303615bd560" />
+
+> Note: The standard domain user account (Stacy Watson) does not have sufficient privileges to access certain system and security settings. A Help Desk account was used to validate domain membership through system settings. This behavior is expected and demonstrates role-based access control and least-privilege enforcement.
+<img width="1025" height="767" alt="domain-membership-helpdesk" src="https://github.com/user-attachments/assets/23c06bc6-ef68-487c-a07b-9717f7092193" />
+
+
 ---
 
 ## Security Considerations
