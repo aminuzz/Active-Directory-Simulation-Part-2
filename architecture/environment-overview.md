@@ -65,15 +65,9 @@ The help desk system is accessed via an internal domain-based URL over HTTPS. Br
 ## Architecture Diagram
 The following diagram provides a visual overview of the environment and system interactions.
 
-**Recommended to include:**
-- Domain Controller
-- Client machines
-- Ubuntu osTicket server
-- Internal network boundary
-- Authentication and traffic flow arrows
 
-_Image file location:_  
-`architecture/network-diagram.png`
+<img width="4080" height="1474" alt="architecture-diagram" src="https://github.com/user-attachments/assets/8b81d3e7-837f-4e62-8679-66e8580868fc" />
+
 
 ---
 
