@@ -97,6 +97,9 @@ The following checks were performed to confirm a successful setup:
 - DNS resolution functioning correctly
 - Active Directory management tools accessible
 - Server operating without AD-related errors
+<img width="1226" height="920" alt="ad-users-and-computers" src="https://github.com/user-attachments/assets/af6e053f-c4e5-4929-b29d-8a64f2e0a24b" />
+
+<img width="1223" height="918" alt="dns-forward-lookup-zone" src="https://github.com/user-attachments/assets/04691f91-8a9a-49f7-9bf3-72bd25d881fc" />
 
 ---
 
