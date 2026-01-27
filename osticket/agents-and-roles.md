@@ -84,6 +84,8 @@ Role-based access control (RBAC) is used to enforce least privilege:
 
 This separation reduces risk and mirrors real enterprise help desk environments.
 
+<img width="1225" height="835" alt="ostickets-agents" src="https://github.com/user-attachments/assets/ebdd0dfb-4818-4a94-8a21-861c1af173b1" />
+
 ---
 
 ## Security Considerations
