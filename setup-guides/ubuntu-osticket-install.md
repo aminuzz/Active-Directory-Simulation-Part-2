@@ -82,6 +82,15 @@ osTicket was configured to operate within the internal domain environment:
 
 This ensures the help desk functions entirely within the lab network.
 
+## User Interface
+<img width="1023" height="647" alt="osticket-ticket-submissions" src="https://github.com/user-attachments/assets/5e6b46b5-fc6c-46d5-b2ce-d6d682032b96" />
+
+
+
+## Admin Portal
+
+<img width="1025" height="697" alt="osticket-admin-portal" src="https://github.com/user-attachments/assets/5ea83ab3-3e1e-4c84-a09f-468d4fb3a354" />
+
 ---
 
 ## Security Considerations
