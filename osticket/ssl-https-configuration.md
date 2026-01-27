@@ -62,6 +62,8 @@ When accessing the site, the browser displays a “Not Secure” or certificate 
 
 This behavior is acceptable and expected in a lab environment.
 
+<img width="1912" height="991" alt="osticket-https-certificate-warning" src="https://github.com/user-attachments/assets/82f21b6e-2777-4836-b2d1-73a7757305d2" />
+ 
 ---
 
 ## Security Considerations
