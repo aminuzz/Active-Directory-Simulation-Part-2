@@ -67,12 +67,13 @@ This structure mirrors how enterprise IT teams triage and manage incoming reques
 Each department is assigned a unique internal email identity to simulate enterprise ticket intake. These email addresses are used within osTicket for ticket creation, routing, and automated responses.
 
 ### Example Department Emails
-- `hr@corp.local`
-- `finance@corp.local`
-- `sales@corp.local`
-- `it@corp.local`
+- `hr@corp.com`
+- `finance@corp.com`
+- `sales@corp.com`
+- `it@corp.com`
 
 These email identities are configured for internal use only and are not connected to external mail servers.
+<img width="1221" height="836" alt="osticket-departments" src="https://github.com/user-attachments/assets/85adaef1-62b1-48a5-8a9e-c259ed4a19d7" />
 
 ---
 
