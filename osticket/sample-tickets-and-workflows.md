@@ -60,10 +60,10 @@ User access restored and ticket closed after successful login confirmation.
 Human Resources submits a request to provision access for a new employee.
 
 ### Department
-- Human Resources (HR)
+- Sales (HR)
 
 ### Actions Taken
-- Ticket routed to HR department
+- Ticket routed to Sales department
 - Request reviewed for completeness
 - IT notified for account and access provisioning
 - Status updated for tracking
@@ -72,32 +72,21 @@ Human Resources submits a request to provision access for a new employee.
 Onboarding request processed and marked as completed.
 
 ### Validation Screenshots
-- HR department ticket view  
-  `screenshots/tickets/ticket-02-onboarding-details.png`
-- Ticket assignment and completion  
-  `screenshots/tickets/ticket-02-onboarding-resolution.png`
+- Sales department ticket view  
+  <img width="1021" height="768" alt="image" src="https://github.com/user-attachments/assets/d5a51637-cc2e-4777-bbc3-4d4c2cc0ffbb" />
 
----
 
-## Ticket 3: Network Share / Printer Access Issue (IT)
 
-### Issue Summary
-A user reports inability to access a shared network resource or printer.
+- Ticket resolution process
+<img width="518" height="453" alt="ticket-02-PoC-part1" src="https://github.com/user-attachments/assets/ab16710f-6701-4954-98f3-e350f75ea3ae" />
+<img width="1223" height="919" alt="ticket-02-PoC-part2" src="https://github.com/user-attachments/assets/5d9dd267-cb67-4286-b443-112dccf36a5e" />
+<img width="1024" height="769" alt="ticket-02-PoC-part3" src="https://github.com/user-attachments/assets/29182a37-6208-4d79-aa1e-eef9c02071d6" />
+<img width="1023" height="768" alt="ticket-02-PoC-part4" src="https://github.com/user-attachments/assets/cb0c9fd3-584b-4399-9693-c5e071429005" />
+<img width="1029" height="769" alt="ticket-02-PoC-part5" src="https://github.com/user-attachments/assets/5bed0205-d506-4810-9102-c8b0eb9721c8" />
+<img width="1027" height="767" alt="ticket-02-PoC-part6" src="https://github.com/user-attachments/assets/e73b6c36-53f7-40ff-9b1f-0fd72b4286b7" />
 
-### Department
-- Information Technology (IT)
 
-### Actions Taken
-- Verified user access permissions
-- Confirmed resource availability
-- Guided user through reconnecting resource
-- Documented troubleshooting steps
+- Ticket closed status 
+ <img width="1223" height="872" alt="ticket-02-onboarding-resolution" src="https://github.com/user-attachments/assets/655f83fb-0b90-473c-907e-1a954622fea8" />
 
-### Resolution
-Access restored and ticket closed.
 
-### Validation Screenshots
-- IT ticket troubleshooting view  
-  `screenshots/tickets/ticket-03-network-access-details.png`
-- Final resolution status  
-  `screenshots/tickets/ticket-03-network-access-resolution.png`
