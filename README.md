@@ -91,7 +91,7 @@ This environment was built from scratch to strengthen my understanding of Window
 | └── [`ubuntu-osticket-install.md`](setup-guides/ubuntu-osticket-install.md) | osTicket installation on Ubuntu |
 | [`osticket/`](osticket) | Help desk configuration and workflows |
 | └── [`agents-and-roles.md`](osticket/agents-and-roles.md) | Agent roles and access control |
-| └── [`departments-and-emails.md`](osticket/department-and-emails.md) | Department structure and ticket routing |
+| └── [`departments-and-emails.md`](osticket/departments-and-emails.md) | Department structure and ticket routing |
 | └── [`ssl-https-configuration.md`](osticket/ssl-https-configuration.md) | HTTPS and SSL configuration |
 | [`troubleshooting/`](troubleshooting) | Issues encountered and resolutions |
 | └── [`issues-and-fixes.md`](troubleshooting/issues-and-fixes.md) | Troubleshooting documentation |
